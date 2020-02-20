@@ -137,26 +137,4 @@ mysql:
   restart: always
 ```
 
-## Source Repository
 
-* [Bitbucket - yobasystems/alpine-mariadb](https://bitbucket.org/yobasystems/alpine-mariadb/)
-
-* [Github - yobasystems/alpine-mariadb](https://github.com/yobasystems/alpine-mariadb)
-
-## Links
-
-* [Yoba Systems](https://www.yobasystems.co.uk/)
-
-* [Dockerhub - yobasystems](https://hub.docker.com/u/yobasystems/)
-
-* [Quay.io - yobasystems](https://quay.io/organization/yobasystems)
-
-## Donation
-
-```
-BITCOIN: bc1ql0heex0jxh0yj5cucc83a3x6c6rxuq6x9zk07g
-ETHEREUM: 0x6b707391c60d50E4E414a143446C0b8eF9A2d1c4
-STELLAR: GAREZZW36KF2IT2EJW6LG5HH4XT3QIMWCHMCGEBC6V3AP3EFJCORRZIY
-XRP: rsaEp3bh3LrjVHqrcyLgbUb6QUQbBogzR3
-ZCASH: t1MuAY2vR17vDK3BgCAtf8ZdXsCiBw3zkU6
-```
