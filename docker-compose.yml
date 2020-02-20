@@ -2,12 +2,12 @@ version: '3.7'
 
 services:
   mysql:
-    image: yobasystems/alpine-mariadb
+    image: sunnybase/mariadb
     environment:
-      MYSQL_ROOT_PASSWORD: hguyFtgfR4r9R4r76
-      MYSQL_DATABASE: wordpressdb
-      MYSQL_USER: wordpressuser
-      MYSQL_PASSWORD: hguyFt6S95dgfR4ryb
+      MYSQL_ROOT_PASSWORD: rootpass
+      MYSQL_DATABASE: db
+      MYSQL_USER: user
+      MYSQL_PASSWORD: mysqlpass
     expose:
       - "3306"
     volumes:
