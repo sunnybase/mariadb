@@ -21,34 +21,6 @@ MariaDB is developed as open source software and as a relational database it pro
 
 ## Architectures
 
-* ```:amd64```, ```:x86_64``` - 64 bit Intel/AMD (x86_64/amd64)
-* ```:arm64v8```, ```:aarch64``` - 64 bit ARM (ARMv8/aarch64)
-* ```:arm32v7```, ```:armhf``` - 32 bit ARM (ARMv7/armhf)
-
-##### PLEASE CHECK TAGS BELOW FOR SUPPORTED ARCHITECTURES, THE ABOVE IS A LIST OF EXPLANATION
-
-## Tags
-
-* ```:latest``` latest branch based (Automatic Architecture Selection)
-* ```:master``` master branch usually inline with latest
-* ```:amd64```, ```:x86_64```  amd64 based on latest tag but amd64 architecture
-* ```:aarch64```, ```:arm64v8``` Armv8 based on latest tag but arm64 architecture
-* ```:armhf```, ```:arm32v7``` Armv7 based on latest tag but arm32 architecture
-
-## Layers & Sizes
-
-![Version](https://img.shields.io/badge/version-amd64-blue.svg?style=for-the-badge)
-![MicroBadger Layers (tag)](https://img.shields.io/microbadger/layers/yobasystems/alpine-mariadb/amd64.svg?style=for-the-badge)
-![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/yobasystems/alpine-mariadb/amd64.svg?style=for-the-badge)
-
-![Version](https://img.shields.io/badge/version-aarch64-blue.svg?style=for-the-badge)
-![MicroBadger Layers (tag)](https://img.shields.io/microbadger/layers/yobasystems/alpine-mariadb/aarch64.svg?style=for-the-badge)
-![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/yobasystems/alpine-mariadb/aarch64.svg?style=for-the-badge)
-
-![Version](https://img.shields.io/badge/version-armhf-blue.svg?style=for-the-badge)
-![MicroBadger Layers (tag)](https://img.shields.io/microbadger/layers/yobasystems/alpine-mariadb/armhf.svg?style=for-the-badge)
-![MicroBadger Size (tag)](https://img.shields.io/microbadger/image-size/yobasystems/alpine-mariadb/armhf.svg?style=for-the-badge)
-
 
 ## Volume structure
 
